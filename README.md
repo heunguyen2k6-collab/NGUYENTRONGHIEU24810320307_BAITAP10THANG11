@@ -24,31 +24,31 @@
 
 1\. \*\*Màn hình Chính / Tổng quan hệ thống:\*\*
 
-&#x20;  !\[Màn hình chính 6.3](images/6.3\_main\_screen.png)
+&#x20;  ![Màn hình chính 6.3](images/6.3\_main\_screen.png)
 
 
 
 2\. \*\*Màn hình Quản lý Danh mục (CRUD):\*\*
 
-&#x20;  !\[Màn hình CRUD 6.3](images/6.3\_crud\_screen.png)
+&#x20;  ![Màn hình CRUD 6.3](images/6.3\_crud\_screen.png)
 
 
 
 3\. \*\*Màn hình Thực thi Nghiệp vụ chính:\*\*
 
-&#x20;  !\[Màn hình Nghiệp vụ 6.3](images/6.3\_transaction\_screen.png)
+&#x20;  ![Màn hình Nghiệp vụ 6.3](images/6.3\_transaction\_screen.png)
 
 
 
 4\. \*\*Màn hình Báo cáo - Thống kê:\*\*
 
-&#x20;  !\[Màn hình Thống kê 6.3](images/6.3\_report\_screen.png)
+&#x20;  ![Màn hình Thống kê 6.3](images/6.3\_report\_screen.png)
 
 
 
 5\. \*\*Minh họa An toàn Dữ liệu (Phòng chống SQL Injection / Transaction Rollback):\*\*
 
-&#x20;  !\[Minh họa Xử lý lỗi 6.3](images/6.3\_error\_handling.png)
+&#x20;  ![Minh họa Xử lý lỗi 6.3](images/6.3\_error\_handling.png)
 
 
 
@@ -60,31 +60,31 @@
 
 1\. \*\*Màn hình Chính / Tổng quan hệ thống:\*\*
 
-&#x20;  !\[Màn hình chính 6.4](images/6.4\_main\_screen.png)
+&#x20;  ![Màn hình chính 6.4](images/6.4\_main\_screen.png)
 
 
 
 2\. \*\*Màn hình Quản lý Danh mục (CRUD - Tiếp nhận xe \& Chủ xe):\*\*
 
-&#x20;  !\[Màn hình CRUD 6.4](images/6.4\_crud\_screen.png)
+&#x20;  ![Màn hình CRUD 6.4](images/6.4\_crud\_screen.png)
 
 
 
 3\. \*\*Màn hình Thực thi Nghiệp vụ chính (Lập phiếu sửa chữa \& Trừ kho):\*\*
 
-&#x20;  !\[Màn hình Nghiệp vụ 6.4](images/6.4\_trasaction\_screen.png)
+&#x20;  ![Màn hình Nghiệp vụ 6.4](images/6.4\_trasaction\_screen.png)
 
 
 
 4\. \*\*Màn hình Báo cáo - Thống kê (Thanh toán \& Xuất hóa đơn):\*\*
 
-&#x20;  !\[Màn hình Thống kê 6.4](images/6.4\_report\_screen.png)
+&#x20;  ![Màn hình Thống kê 6.4](images/6.4\_report\_screen.png)
 
 
 
 5\. \*\*Minh họa An toàn Dữ liệu (Báo lỗi Transaction Rollback / Kiểm tra tồn kho):\*\*
 
-&#x20;  !\[Minh họa Xử lý lỗi 6.4](images/6.4\_error\_screen.png)
+&#x20;  ![Minh họa Xử lý lỗi 6.4](images/6.4\_error\_screen.png)
 
 
 
@@ -96,29 +96,29 @@
 
 1\. \*\*Màn hình Chính / Tổng quan hệ thống (Visual Room Grid):\*\*
 
-&#x20;  !\[Màn hình chính 6.5](images/6.5\_main\_screen.png)
+&#x20;  ![Màn hình chính 6.5](images/6.5\_main\_screen.png)
 
 
 
 2\. \*\*Màn hình Quản lý Danh mục (CRUD - Mở phòng / Cập nhật trạng thái):\*\*
 
-&#x20;  !\[Màn hình CRUD 6.5](images/6.5\_crud\_screen.png)
+&#x20;  ![Màn hình CRUD 6.5](images/6.5\_crud\_screen.png)
 
 
 
 3\. \*\*Màn hình Thực thi Nghiệp vụ chính (Gọi dịch vụ / Đồ uống):\*\*
 
-&#x20;  !\[Màn hình Nghiệp vụ 6.5](images/6.5\_trasaction\_screen.png)
+&#x20;  ![Màn hình Nghiệp vụ 6.5](images/6.5\_trasaction\_screen.png)
 
 
 
 4\. \*\*Màn hình Báo cáo - Thống kê (Tính tiền giờ \& Thanh toán hóa đơn):\*\*
 
-&#x20;  !\[Màn hình Thống kê 6.5](images/6.5\_report\_screen.png)
+&#x20;  ![Màn hình Thống kê 6.5](images/6.5\_report\_screen.png)
 
 
 
 5\. \*\*Minh họa An toàn Dữ liệu (Báo lỗi SqlTransaction Rollback / Kiểm tra tồn kho):\*\*
 
-&#x20;  !\[Minh họa Xử lý lỗi 6.5](images/6.5\_error\_screen.png)
+&#x20;  ![Minh họa Xử lý lỗi 6.5](images/6.5\_error\_screen.png)
 
